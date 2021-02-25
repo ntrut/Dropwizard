@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: nazar
+Build-Jdk: 11.0.7
+Implementation-Title: Project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: trut
+Created-By: Maven Integration for Eclipse
+
